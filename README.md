@@ -1,7 +1,7 @@
 # CNN to detect digits for the PREN project @ HSLU
 
 This repository contains notebooks, assets and a pre-trained model for a
-Convolutional Neural Network intended to predict digits from 32x32 images.
+Convolutional Neural Network intended to predict digits from 28x28 images.
 
 This CNN was used in the PREN project @ HSLU.
 
