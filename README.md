@@ -15,6 +15,12 @@ The CNN classifies the numbers *1-9* and *0* for *not-a-number*.
 
 See the jupyter notebooks for more details about the image augmentation and model architecture, training and evaluation.
 
+Graph:
+![](docs/tensorboard-logs.png)
+
+Accuracy during training:
+![](docs/tensorboard-acc.png)
+
 ***
 
 *<p align="center">This project is published under [MIT](LICENSE).<br>A [Timo Furrer](https://tuxtimo.me) project.<br>- :tada: -</p>*
